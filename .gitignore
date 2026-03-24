@@ -1,0 +1,15 @@
+# Python environment
+BERTopic_env/
+venv/
+.env/
+
+# model besar
+*.pkl
+model/
+
+# cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
